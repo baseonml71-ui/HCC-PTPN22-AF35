@@ -1,6 +1,6 @@
 {
   "cff-version": "1.2.0",
-  "message": "Please cite this software and the associated manuscript. Repository URL and DOI are pending publication; no public release has occurred.",
+  "message": "Please cite this software and the associated manuscript. The public repository is available on GitHub; the formal v1.0.0 release is being prepared. The Zenodo DOI is pending generation by Zenodo.",
   "type": "software",
   "title": "PTPN22 anchors an activation-feedback T-cell state across clonotypic, spatial and pretreatment clinical contexts in hepatocellular carcinoma",
   "version": "1.0.0",
@@ -41,5 +41,6 @@
     "immune checkpoint inhibitors",
     "spatial transcriptomics",
     "clonotypes"
-  ]
+  ],
+  "repository-code": "https://github.com/baseonml71-ui/HCC-PTPN22-AF35"
 }
