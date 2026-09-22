@@ -1,0 +1,19 @@
+dataset_id	accession	source_url	local_relative_path	expected_file_identity	expected_sha256	status
+D01	GSE149614	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149614	data/local_workspace/GSE149614	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D02	GSE326201	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE326201	data/local_workspace/GSE326201	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D03	GSE206325	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206325	data/local_workspace/GSE206325	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D04	GSE202069	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202069	data/local_workspace/GSE202069	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D05	GSE238264	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE238264	data/local_workspace/GSE238264	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D06	GSE215011	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE215011	data/local_workspace/GSE215011	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D07	GSE235863	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235863	data/local_workspace/GSE235863	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D08	GSE279750	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE279750	data/local_workspace/GSE279750	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D09	GSE235863	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235863	data/local_workspace/GSE235863	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D10	10.5281/zenodo.19123188	https://doi.org/10.5281/zenodo.19123188	data/local_workspace/10.5281/zenodo.19123188	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D11	GSE265961	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE265961	data/local_workspace/GSE265961	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D12	ERP117672	https://www.ebi.ac.uk/ena/browser/view/ERP117672	data/local_workspace/ERP117672	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D13	GSE302495	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE302495	data/local_workspace/GSE302495	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D14	GSE104580	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104580	data/local_workspace/GSE104580	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D15	GSE314342	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE314342	data/local_workspace/GSE314342	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D16	GSE264373	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE264373	data/local_workspace/GSE264373	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+D17	GSE94859	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94859	data/local_workspace/GSE94859	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG
+H01	GSE287319	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287319	data/local_workspace/GSE287319	UNRESOLVED_SEE_DERIVED_INPUT_LEDGER		EXAMPLE_NOT_EXECUTION_CONFIG

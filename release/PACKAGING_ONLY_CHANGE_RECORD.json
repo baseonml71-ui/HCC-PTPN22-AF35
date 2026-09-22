@@ -1,0 +1,52 @@
+[
+  {
+    "script": "scripts/current/03_AF35_measurement/sources/AF35_AGGREGATION_COMPOSITION_DECOMPOSITION_v1/scripts/01_freeze.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 6"
+    ]
+  },
+  {
+    "script": "scripts/current/06_clinical/sources/AF35_BROAD_IMMUNE_RESIDUAL_ASSOCIATION_v1/scripts/00_initialize.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 33"
+    ]
+  },
+  {
+    "script": "scripts/current/06_clinical/sources/AF35_COMPONENT_ABLATION_ASSOCIATION_ROBUSTNESS_v1/01_freeze.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 90",
+      "Removed authorization-only member from administrative hash list; scientific files and checks unchanged"
+    ]
+  },
+  {
+    "script": "scripts/current/03_AF35_measurement/sources/AF35_FUNCTIONAL_ROLE_STATE_ARCHITECTURE_v1/scripts/00_initialize.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 25"
+    ]
+  },
+  {
+    "script": "scripts/current/03_AF35_measurement/sources/AF35_RESPONSE_BLIND_PROGRAM_COHERENCE_v1/scripts/00_initialize.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 33"
+    ]
+  },
+  {
+    "script": "scripts/current/02_state/sources/PTPN22_AF35_COUPLING_ARCHITECTURE_v1/scripts/01_source_audit.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 11"
+    ]
+  },
+  {
+    "script": "scripts/current/02_state/sources/PTPN22_STATE_AXIS_SPECIFICITY_v1/scripts/00_reuse_sources.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 8"
+    ]
+  },
+  {
+    "script": "scripts/current/05_spatial/sources/WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1/scripts/00_feasibility_freeze.py",
+    "removed_statements": [
+      "Removed authorization-copy statement at rc1 line 5",
+      "Removed authorization-copy statement at rc1 line 6"
+    ]
+  }
+]

@@ -1,7 +1,5 @@
-# Local Git preparation
+# Local RC2 Git preparation
 
-Commit message: Prepare HCC PTPN22-AF35 v1.0.0 public release
+Commit message: Resolve reproducibility blockers for HCC PTPN22-AF35 v1.0.0 RC2
 
-Local candidate tag: v1.0.0-rc1. This is a local review tag, not a GitHub release or a publication readiness claim. No remote is configured and nothing is pushed. The planned final software release is v1.0.0, pending resolution of PUBLIC_REPOSITORY_RELEASE_GATE.md.
-
-The local preparation commit uses the clearly labelled repository-preparation identity, not an inferred personal author email. Its exact commit ID is reported to the author outside this committed payload to avoid a self-referential commit hash. Git internals are not part of the release manifest.
+Local tag: v1.0.0-rc2. The rc1 tag is preserved. No remote is created and no push is authorized. The commit receipt is kept outside the hashed payload to avoid self-referential commit metadata.

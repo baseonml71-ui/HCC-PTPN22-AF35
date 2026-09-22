@@ -1,0 +1,11 @@
+metric	value
+current_candidates	59
+approved_current_entrypoints	0
+frozen_originals	59
+private_authorization_dependencies_removed	8
+input_expressions_unresolved	339
+included_aggregate_tables	43
+main_outputs	41
+main_incomplete	40
+supplement_outputs	107
+supplement_incomplete	107

@@ -1,0 +1,23 @@
+{
+  "gate": "NOT_READY",
+  "scripts": 59,
+  "aggregate_tables": 43,
+  "private_protocol_dependent_scripts": 8,
+  "unresolved_execution_gaps": 11,
+  "credential_findings": 0,
+  "private_token_findings": 0,
+  "direct_phi_findings": 0,
+  "unintended_absolute_paths": 0,
+  "keyword_hits_reviewed": 494,
+  "analysis_executed": false,
+  "github_published": false,
+  "zenodo_uploaded": false,
+  "protected_original_files_verified": 8844,
+  "authoritative_v3_files_unchanged": 3,
+  "python_source_files": 40,
+  "r_source_files": 19,
+  "utility_scripts": 3,
+  "cff_official_schema": "PASS",
+  "materialization_dry_run": "PASS",
+  "prerequisite_dry_run_expected_exit": 2
+}
