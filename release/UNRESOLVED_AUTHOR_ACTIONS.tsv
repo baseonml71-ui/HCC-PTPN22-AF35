@@ -1,5 +1,4 @@
-gap_id	file	status	description	required_action
-RC2_INPUT	release/DERIVED_INPUT_LEDGER.tsv	UNRESOLVED	339 static input expressions need verified variable bindings and full upstream acquisition/reconstruction contracts	Resolve module inputs and frozen protocol/self-hash records without changing scientific checks
-RC2_TRACE	release/PUBLIC_RESULT_TRACEABILITY.tsv	UNRESOLVED	40 main panels and 107 supporting supplement rows lack complete computational trace	Identify exact numerical producers, panel-value bindings, fixed inputs and environment; filename occurrence is insufficient
-RC2_BRANCH	release/HISTORICAL_BRANCH_AUDIT.tsv	UNRESOLVED	Three shared phase15b scripts retain GSE287319 historical branches; all are excluded from current execution	Review a GSE302495-only adapter preserving its exact expressions and scientific locks before promotion
-RC2_ENV	environment/Python_environment.txt	DOCUMENTED_LIMITATION	Historical topology SciPy version not recovered	Do not invent the historical version; record any separately validated replacement as a new environment
+action_id	status	action
+PUBLICATION	FUTURE_AUTHORIZATION_REQUIRED	No push/remote/Zenodo upload is authorized in RC3; obtain separate author instruction before publication.
+FIGURE3A	EXCLUDED_NONBLOCKING	Do not add the decorative asset or complete Figure 3 binary unless asset rights are resolved.
+HISTORICAL_EXECUTION	DOCUMENTED_NONBLOCKING	NO_ARCHIVAL scripts and unknown historical topology SciPy remain limitations; no pipeline repair required by RC3.

@@ -1,0 +1,109 @@
+lineage	plot_unit	condition	component	value
+All T cells	U001	Original	C_total	0.245166713851124
+All T cells	U001	Original	C_between	0.167063261716034
+All T cells	U001	Original	C_within	0.0781034521350896
+All T cells	U002	Original	C_total	0.250545393729185
+All T cells	U002	Original	C_between	0.178536165600068
+All T cells	U002	Original	C_within	0.0720092281291177
+All T cells	U003	Original	C_total	0.0980856217526472
+All T cells	U003	Original	C_between	0.0479112579206213
+All T cells	U003	Original	C_within	0.0501743638320259
+All T cells	U004	Original	C_total	0.284065993444119
+All T cells	U004	Original	C_between	0.169075384028297
+All T cells	U004	Original	C_within	0.114990609415822
+All T cells	U005	Original	C_total	0.17645036542906
+All T cells	U005	Original	C_between	0.199535040785822
+All T cells	U005	Original	C_within	-0.0230846753567618
+All T cells	U006	Original	C_total	0.145815214142113
+All T cells	U006	Original	C_between	0.0869886196921841
+All T cells	U006	Original	C_within	0.0588265944499289
+All T cells	U001	Technical-adjusted	C_total	0.175707836833631
+All T cells	U001	Technical-adjusted	C_between	0.115296776610945
+All T cells	U001	Technical-adjusted	C_within	0.0604110602226862
+All T cells	U002	Technical-adjusted	C_total	0.17862807681817
+All T cells	U002	Technical-adjusted	C_between	0.140031014607137
+All T cells	U002	Technical-adjusted	C_within	0.0385970622110333
+All T cells	U003	Technical-adjusted	C_total	0.0532130200737307
+All T cells	U003	Technical-adjusted	C_between	0.0433685040671367
+All T cells	U003	Technical-adjusted	C_within	0.00984451600659405
+All T cells	U004	Technical-adjusted	C_total	0.0832821669092818
+All T cells	U004	Technical-adjusted	C_between	0.0362693231962719
+All T cells	U004	Technical-adjusted	C_within	0.0470128437130098
+All T cells	U005	Technical-adjusted	C_total	0.10682932455675
+All T cells	U005	Technical-adjusted	C_between	0.104441725892603
+All T cells	U005	Technical-adjusted	C_within	0.00238759866414645
+All T cells	U006	Technical-adjusted	C_total	0.0923869074805088
+All T cells	U006	Technical-adjusted	C_between	0.0710759685968833
+All T cells	U006	Technical-adjusted	C_within	0.0213109388836255
+CD4	U001	Original	C_total	0.171045020916851
+CD4	U001	Original	C_between	0.117793720190951
+CD4	U001	Original	C_within	0.0532513007259003
+CD4	U002	Original	C_total	0.185709535928656
+CD4	U002	Original	C_between	0.0509262017562324
+CD4	U002	Original	C_within	0.134783334172423
+CD4	U003	Original	C_total	0.118842705540777
+CD4	U003	Original	C_between	0.0234254814551395
+CD4	U003	Original	C_within	0.0954172240856379
+CD4	U004	Original	C_total	0.292986636134745
+CD4	U004	Original	C_between	0.181861163115293
+CD4	U004	Original	C_within	0.111125473019452
+CD4	U005	Original	C_total	0.0726771030262919
+CD4	U005	Original	C_between	0.0645729928219512
+CD4	U005	Original	C_within	0.00810411020434074
+CD4	U006	Original	C_total	0.0980585327502133
+CD4	U006	Original	C_between	0.0105719881207652
+CD4	U006	Original	C_within	0.0874865446294481
+CD4	U001	Technical-adjusted	C_total	0.073530815606487
+CD4	U001	Technical-adjusted	C_between	0.0467931845912379
+CD4	U001	Technical-adjusted	C_within	0.0267376310152492
+CD4	U002	Technical-adjusted	C_total	0.117986197984772
+CD4	U002	Technical-adjusted	C_between	0.0360662031395369
+CD4	U002	Technical-adjusted	C_within	0.0819199948452351
+CD4	U003	Technical-adjusted	C_total	0.0441896888331199
+CD4	U003	Technical-adjusted	C_between	0.00763128645236686
+CD4	U003	Technical-adjusted	C_within	0.0365584023807531
+CD4	U004	Technical-adjusted	C_total	0.0786200805979213
+CD4	U004	Technical-adjusted	C_between	0.0296953208726458
+CD4	U004	Technical-adjusted	C_within	0.0489247597252756
+CD4	U005	Technical-adjusted	C_total	0.00226773746434058
+CD4	U005	Technical-adjusted	C_between	-0.00242574900660622
+CD4	U005	Technical-adjusted	C_within	0.00469348647094681
+CD4	U006	Technical-adjusted	C_total	0.0225549519454709
+CD4	U006	Technical-adjusted	C_between	0.00465159081592414
+CD4	U006	Technical-adjusted	C_within	0.0179033611295467
+CD8	U001	Original	C_total	0.168282793819836
+CD8	U001	Original	C_between	0.0590388502314853
+CD8	U001	Original	C_within	0.10924394358835
+CD8	U002	Original	C_total	0.114691013199269
+CD8	U002	Original	C_between	0.0715581864677131
+CD8	U002	Original	C_within	0.0431328267315558
+CD8	U003	Original	C_total	0.010984908190274
+CD8	U003	Original	C_between	0.0191048168852326
+CD8	U003	Original	C_within	-0.00811990869495856
+CD8	U004	Original	C_total	0.259505797220609
+CD8	U004	Original	C_between	0.131968723569962
+CD8	U004	Original	C_within	0.127537073650648
+CD8	U005	Original	C_total	0.024305584616863
+CD8	U005	Original	C_between	0.0743590055831902
+CD8	U005	Original	C_within	-0.0500534209663273
+CD8	U006	Original	C_total	0.0582638943281011
+CD8	U006	Original	C_between	0.0400915817496717
+CD8	U006	Original	C_within	0.0181723125784295
+CD8	U001	Technical-adjusted	C_total	0.104900944557713
+CD8	U001	Technical-adjusted	C_between	0.0235199619658123
+CD8	U001	Technical-adjusted	C_within	0.0813809825919003
+CD8	U002	Technical-adjusted	C_total	0.0454519065855566
+CD8	U002	Technical-adjusted	C_between	0.0414383773325995
+CD8	U002	Technical-adjusted	C_within	0.0040135292529571
+CD8	U003	Technical-adjusted	C_total	-0.033282957639701
+CD8	U003	Technical-adjusted	C_between	-0.00495765168056676
+CD8	U003	Technical-adjusted	C_within	-0.0283253059591343
+CD8	U004	Technical-adjusted	C_total	0.0623758814664225
+CD8	U004	Technical-adjusted	C_between	0.0281000045417998
+CD8	U004	Technical-adjusted	C_within	0.0342758769246227
+CD8	U005	Technical-adjusted	C_total	0.00630474404551852
+CD8	U005	Technical-adjusted	C_between	0.0237317243725939
+CD8	U005	Technical-adjusted	C_within	-0.0174269803270754
+CD8	U006	Technical-adjusted	C_total	0.0485671688339376
+CD8	U006	Technical-adjusted	C_between	0.0227708876521095
+CD8	U006	Technical-adjusted	C_within	0.0257962811818282

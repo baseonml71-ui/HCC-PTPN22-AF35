@@ -1,2 +1,2 @@
-scope	findings	status	detail
-RC2_PAYLOAD	0	PASS	Source workspace identities recorded as relative provenance identifiers; no claim all execution paths resolved
+scope	status	findings	evidence
+RC3	PASS	0	release/RC3_ABSOLUTE_PATH_FINDINGS.tsv

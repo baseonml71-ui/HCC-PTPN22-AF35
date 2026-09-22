@@ -1,0 +1,2 @@
+cohort_pair	pair_n	gene_n	covariance_pearson	covariance_spearman	connectivity_pearson	connectivity_spearman
+ERP117672__GSE302495	595	35	0.7105442582581755	0.7131717468797528	0.8172036500008454	0.788235294117647

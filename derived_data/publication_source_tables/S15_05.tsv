@@ -1,0 +1,8 @@
+module	software	version	source	scope
+WU_AF35_SPATIAL_CELLULAR_MICROENV_CONTEXT_v1	python	3.12.12	WU_AF35_SPATIAL_CELLULAR_MICROENV_CONTEXT_v1/QA/PYTHON_SESSION_INFO.json	Recorded analysis-time environment
+WU_AF35_SPATIAL_CELLULAR_MICROENV_CONTEXT_v1	numpy	2.2.6	WU_AF35_SPATIAL_CELLULAR_MICROENV_CONTEXT_v1/QA/PYTHON_SESSION_INFO.json	Recorded analysis-time environment
+WU_AF35_SPATIAL_CELLULAR_MICROENV_CONTEXT_v1	pandas	2.3.3	WU_AF35_SPATIAL_CELLULAR_MICROENV_CONTEXT_v1/QA/PYTHON_SESSION_INFO.json	Recorded analysis-time environment
+WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1	python	3.12.12	WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1/QA/PYTHON_SESSION_INFO.json	Recorded analysis-time environment
+WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1	numpy	2.2.6	WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1/QA/PYTHON_SESSION_INFO.json	Recorded analysis-time environment
+WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1	pandas	2.3.3	WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1/QA/PYTHON_SESSION_INFO.json	Recorded analysis-time environment
+WU_AF35_DC_CD8_SPATIAL_TOPOLOGY_v1	scipy	NOT_RECORDED	scripts/01_topology.py imports scipy.spatial.cKDTree	Dependency confirmed; original version not recoverable from session record

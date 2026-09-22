@@ -29,11 +29,10 @@ genes = (root / 'config/AF35_genes.txt').read_text(encoding='utf-8').splitlines(
 assert len(genes) == len(set(genes)) == 35 and 'PTPN22' not in genes
 citation = json.loads((root / 'CITATION.cff').read_text(encoding='utf-8'))
 assert citation['version'] == '1.0.0' and len(citation['authors']) == 6
-with (root / 'provenance/CURRENT_ANALYSIS_ENTRYPOINTS.tsv').open(encoding='utf-8') as handle:
+with (root / 'release/SCRIPT_ARCHIVE_INDEX.tsv').open(encoding='utf-8') as handle:
     entries = list(csv.DictReader(handle, delimiter='\t'))
 for row in entries:
-    assert row['status'] == 'ACTIVE_CURRENT'
-    assert (root / row['active_script']).is_file()
-    assert (root / row['environment']).is_file()
-print(f'PASS: {len(payload)} payload files; {len(entries)} source entries; AF35 35/35')
+    assert row['status'] in {'FROZEN_ANALYSIS_SCRIPT', 'DISPLAY_SCRIPT', 'UTILITY_SCRIPT', 'HISTORICAL_SCRIPT', 'EXCLUDED'}
+    assert (root / row['script']).is_file()
+print(f'PASS: {len(payload)} payload files; {len(entries)} archive script records; AF35 35/35')
 print('Integrity verification only; no biological analysis or public release performed.')

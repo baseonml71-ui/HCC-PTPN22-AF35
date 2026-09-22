@@ -1,2 +1,2 @@
-scope	credential_findings	absolute_path_findings	status	limitation
-RC2_PAYLOAD	0	0	SEE_release/RC2_VALIDATION.tsv	Static pattern and column scan; no clinical de-identification certification
+scope	credential_findings	direct_identifier_findings	absolute_local_path_findings	evidence	limitation
+RC3	0	0	0	release/RC3_SECURITY_FINDINGS.tsv; release/RC3_ABSOLUTE_PATH_FINDINGS.tsv; release/FINAL_SOURCE_TABLE_BINDINGS.tsv	Scoped static/export verification; no statistical re-identification guarantee

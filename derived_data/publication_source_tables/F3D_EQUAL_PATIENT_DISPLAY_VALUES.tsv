@@ -1,0 +1,121 @@
+context_family	context_level	sub_cluster	value	n_patients
+Expansion	Singleton	CD4_C01_CCR7	0.207391653351444	9
+Expansion	Singleton	CD4_C02_IL7R	0.0821610147051694	9
+Expansion	Singleton	CD4_C03_CD44	0.0777849009539637	9
+Expansion	Singleton	CD4_C04_GZMK	0.179510232236235	9
+Expansion	Singleton	CD4_C05_GNLY	0.00212564065667033	9
+Expansion	Singleton	CD4_C06_CXCL13	0.0315127299001781	9
+Expansion	Singleton	CD4_C07_CTLA4	0.0683775738037061	9
+Expansion	Singleton	CD4_C08_FOXP3	0.0459840416391322	9
+Expansion	Singleton	CD4_C09_MKI67	0.00529082155770797	9
+Expansion	Singleton	CD8_C01_LEF1	0.106068480070358	9
+Expansion	Singleton	CD8_C02_GPR183	0.0102059896287946	9
+Expansion	Singleton	CD8_C03_CX3CR1	0.00903656971040771	9
+Expansion	Singleton	CD8_C04_GIMAP4	0.0122289719089687	9
+Expansion	Singleton	CD8_C05_CCR7	0.0121058558364635	9
+Expansion	Singleton	CD8_C06_IKZF2	0.000732306965768896	9
+Expansion	Singleton	CD8_C07_KIR2DL4	0.00520557376139713	9
+Expansion	Singleton	CD8_C08_GZMK	0.0697429794550411	9
+Expansion	Singleton	CD8_C09_LAYN	0.0330027293850984	9
+Expansion	Singleton	CD8_C10_SLC4A10	0.0390597797133967	9
+Expansion	Singleton	CD8_C11_MKI67	0.00247215476009807	9
+Expansion	Expanded (>=2 cells)	CD4_C01_CCR7	0.018948041155763	9
+Expansion	Expanded (>=2 cells)	CD4_C02_IL7R	0.0193285392160765	9
+Expansion	Expanded (>=2 cells)	CD4_C03_CD44	0.0552294116699695	9
+Expansion	Expanded (>=2 cells)	CD4_C04_GZMK	0.0972600591855093	9
+Expansion	Expanded (>=2 cells)	CD4_C05_GNLY	0.0309561201796225	9
+Expansion	Expanded (>=2 cells)	CD4_C06_CXCL13	0.0163511347124149	9
+Expansion	Expanded (>=2 cells)	CD4_C07_CTLA4	0.109473786611639	9
+Expansion	Expanded (>=2 cells)	CD4_C08_FOXP3	0.00566226964577789	9
+Expansion	Expanded (>=2 cells)	CD4_C09_MKI67	0.00577276440655326	9
+Expansion	Expanded (>=2 cells)	CD8_C01_LEF1	0.00220782661336573	9
+Expansion	Expanded (>=2 cells)	CD8_C02_GPR183	0.00746074350523587	9
+Expansion	Expanded (>=2 cells)	CD8_C03_CX3CR1	0.265400233582324	9
+Expansion	Expanded (>=2 cells)	CD8_C04_GIMAP4	0.0357850743336586	9
+Expansion	Expanded (>=2 cells)	CD8_C05_CCR7	0.00751278691392343	9
+Expansion	Expanded (>=2 cells)	CD8_C06_IKZF2	0.0320398476053562	9
+Expansion	Expanded (>=2 cells)	CD8_C07_KIR2DL4	0.0177375292788017	9
+Expansion	Expanded (>=2 cells)	CD8_C08_GZMK	0.166940309306143	9
+Expansion	Expanded (>=2 cells)	CD8_C09_LAYN	0.0597850015517064	9
+Expansion	Expanded (>=2 cells)	CD8_C10_SLC4A10	0.041705758186741	9
+Expansion	Expanded (>=2 cells)	CD8_C11_MKI67	0.00444276233941787	9
+Eligible persistence	Nonpersistent within tissue	CD4_C01_CCR7	0.225867369230645	7
+Eligible persistence	Nonpersistent within tissue	CD4_C02_IL7R	0.0782567203482183	7
+Eligible persistence	Nonpersistent within tissue	CD4_C03_CD44	0.0887217476338098	7
+Eligible persistence	Nonpersistent within tissue	CD4_C04_GZMK	0.140656073975803	7
+Eligible persistence	Nonpersistent within tissue	CD4_C05_GNLY	0.00287681572972329	7
+Eligible persistence	Nonpersistent within tissue	CD4_C06_CXCL13	0.0309132077199639	7
+Eligible persistence	Nonpersistent within tissue	CD4_C07_CTLA4	0.0797010268394822	7
+Eligible persistence	Nonpersistent within tissue	CD4_C08_FOXP3	0.0373680796153517	7
+Eligible persistence	Nonpersistent within tissue	CD4_C09_MKI67	0.00581041847297825	7
+Eligible persistence	Nonpersistent within tissue	CD8_C01_LEF1	0.115559694482855	7
+Eligible persistence	Nonpersistent within tissue	CD8_C02_GPR183	0.0138340826872561	7
+Eligible persistence	Nonpersistent within tissue	CD8_C03_CX3CR1	0.0151769652641368	7
+Eligible persistence	Nonpersistent within tissue	CD8_C04_GIMAP4	0.00498502013976822	7
+Eligible persistence	Nonpersistent within tissue	CD8_C05_CCR7	0.0122087639794529	7
+Eligible persistence	Nonpersistent within tissue	CD8_C06_IKZF2	0.000832753788354714	7
+Eligible persistence	Nonpersistent within tissue	CD8_C07_KIR2DL4	0.00522726791499111	7
+Eligible persistence	Nonpersistent within tissue	CD8_C08_GZMK	0.0725254991744942	7
+Eligible persistence	Nonpersistent within tissue	CD8_C09_LAYN	0.0353747151609406	7
+Eligible persistence	Nonpersistent within tissue	CD8_C10_SLC4A10	0.0314140722543588	7
+Eligible persistence	Nonpersistent within tissue	CD8_C11_MKI67	0.00268970558741719	7
+Eligible persistence	Persistent within tissue	CD4_C01_CCR7	0.0187983169890495	7
+Eligible persistence	Persistent within tissue	CD4_C02_IL7R	0.0135354684649986	7
+Eligible persistence	Persistent within tissue	CD4_C03_CD44	0.0522714608193743	7
+Eligible persistence	Persistent within tissue	CD4_C04_GZMK	0.059840344294755	7
+Eligible persistence	Persistent within tissue	CD4_C05_GNLY	0.0520386587212416	7
+Eligible persistence	Persistent within tissue	CD4_C06_CXCL13	0.00938901006643099	7
+Eligible persistence	Persistent within tissue	CD4_C07_CTLA4	0.0952988444441618	7
+Eligible persistence	Persistent within tissue	CD4_C08_FOXP3	0.00371177354254443	7
+Eligible persistence	Persistent within tissue	CD4_C09_MKI67	0.00356658860589143	7
+Eligible persistence	Persistent within tissue	CD8_C01_LEF1	0.00190405673771871	7
+Eligible persistence	Persistent within tissue	CD8_C02_GPR183	0.0105867416274178	7
+Eligible persistence	Persistent within tissue	CD8_C03_CX3CR1	0.334296452822618	7
+Eligible persistence	Persistent within tissue	CD8_C04_GIMAP4	0.0242147580653654	7
+Eligible persistence	Persistent within tissue	CD8_C05_CCR7	0.00659233267924297	7
+Eligible persistence	Persistent within tissue	CD8_C06_IKZF2	0.046594652264941	7
+Eligible persistence	Persistent within tissue	CD8_C07_KIR2DL4	0.0119857171176323	7
+Eligible persistence	Persistent within tissue	CD8_C08_GZMK	0.159862988584218	7
+Eligible persistence	Persistent within tissue	CD8_C09_LAYN	0.0489496528846817	7
+Eligible persistence	Persistent within tissue	CD8_C10_SLC4A10	0.0418147724538199	7
+Eligible persistence	Persistent within tissue	CD8_C11_MKI67	0.00474740881389675	7
+Later observation	Later observed	CD4_C01_CCR7	0.0344257148686882	7
+Later observation	Later observed	CD4_C02_IL7R	0.0262293754855044	7
+Later observation	Later observed	CD4_C03_CD44	0.0183865649952252	7
+Later observation	Later observed	CD4_C04_GZMK	0.0114786481413802	7
+Later observation	Later observed	CD4_C05_GNLY	0.0465297061625666	7
+Later observation	Later observed	CD4_C06_CXCL13	0	7
+Later observation	Later observed	CD4_C07_CTLA4	0	7
+Later observation	Later observed	CD4_C08_FOXP3	0.00980793475276118	7
+Later observation	Later observed	CD4_C09_MKI67	0	7
+Later observation	Later observed	CD8_C01_LEF1	0.0032736941974972	7
+Later observation	Later observed	CD8_C02_GPR183	0.0119811666800126	7
+Later observation	Later observed	CD8_C03_CX3CR1	0.622057038669049	7
+Later observation	Later observed	CD8_C04_GIMAP4	0.0433068180322799	7
+Later observation	Later observed	CD8_C05_CCR7	0.00572615310864324	7
+Later observation	Later observed	CD8_C06_IKZF2	0.0804315274013549	7
+Later observation	Later observed	CD8_C07_KIR2DL4	0.000211327134404057	7
+Later observation	Later observed	CD8_C08_GZMK	0.0532751392020651	7
+Later observation	Later observed	CD8_C09_LAYN	0.000490918016691213	7
+Later observation	Later observed	CD8_C10_SLC4A10	0.0321769460174733	7
+Later observation	Later observed	CD8_C11_MKI67	0.000211327134404057	7
+Later observation	Not observed later	CD4_C01_CCR7	0.341524818222736	7
+Later observation	Not observed later	CD4_C02_IL7R	0.148281852473416	7
+Later observation	Not observed later	CD4_C03_CD44	0.0770286788720447	7
+Later observation	Not observed later	CD4_C04_GZMK	0.0602926689541855	7
+Later observation	Not observed later	CD4_C05_GNLY	0.00281720019197397	7
+Later observation	Not observed later	CD4_C06_CXCL13	0.00071995030800104	7
+Later observation	Not observed later	CD4_C07_CTLA4	0.000570320334206706	7
+Later observation	Not observed later	CD4_C08_FOXP3	0.057556188804055	7
+Later observation	Not observed later	CD4_C09_MKI67	0.00204412147385684	7
+Later observation	Not observed later	CD8_C01_LEF1	0.213374078983129	7
+Later observation	Not observed later	CD8_C02_GPR183	0.0146580817313633	7
+Later observation	Not observed later	CD8_C03_CX3CR1	0.014629434889091	7
+Later observation	Not observed later	CD8_C04_GIMAP4	0.0102970143580083	7
+Later observation	Not observed later	CD8_C05_CCR7	0.00953926315317275	7
+Later observation	Not observed later	CD8_C06_IKZF2	0.000615680794031694	7
+Later observation	Not observed later	CD8_C07_KIR2DL4	0.000285160167103354	7
+Later observation	Not observed later	CD8_C08_GZMK	0.0264676227896195	7
+Later observation	Not observed later	CD8_C09_LAYN	0.00142086599654425	7
+Later observation	Not observed later	CD8_C10_SLC4A10	0.0172985651763723	7
+Later observation	Not observed later	CD8_C11_MKI67	0.000578432327088797	7

@@ -1,3 +1,3 @@
-# Local v1.0.0-rc2
+# Local v1.0.0-rc3
 
-Preserved exact sanitized rc1 source blobs; removed eight noncomputational private-copy dependencies; added 148 publication-output evidence rows, input/branch audits and explicit blocked family review documentation. Computational source-result closure is incomplete. Gate NOT_READY. No scientific result regenerated or changed; no publication/push/remote/upload.
+Publication-support archive; source-table verification rather than a guaranteed executable pipeline. All new numerical exports preserve source values, with identifier removal and neutral pairing labels. No analysis rerun, manuscript/figure change, push or public upload. See RC3_VALIDATION.tsv and the root release gate for final checks.

@@ -1,0 +1,13 @@
+claim	source_table	source_row_or_key	status
+GSE206325 86864 display cells	derived_data/publication_source_tables/FIGURE1_DISPLAY_UMAP_COORDINATES_V1.tsv	All rows; row count; no cells are inferential replicates	COMPLETE
+GSE235863 58872 cells and 20 states	derived_data/publication_source_tables/GSE235863_EXACT_LINKED_TCELL_ATLAS.tsv	All rows; sub_cluster distinct states	COMPLETE
+All 35 omissions per measurement cohort	derived_data/publication_source_tables/S06_01.tsv	cohort; all 35 omitted_gene rows	COMPLETE
+Each adjusted AF35 contrast approximately one tenth	derived_data/publication_source_tables/S07_05.tsv	AUTHOR_CLONE_ID; AF35; STATE_ADJUSTED; adjusted_to_raw_ratio	COMPLETE
+Positive AF35 direction 9/9 7/7 7/7	derived_data/publication_source_tables/S07_05.tsv	AUTHOR_CLONE_ID; AF35; RAW; positive_patient_n and eligible_patient_n	COMPLETE
+Seven paired longitudinal patients	derived_data/publication_source_tables/AF35_M2_PATIENT_TIMEPOINT_COMPONENTS_RESPONSE_BLIND.tsv	14 rows; seven neutral plot units with two timepoints	COMPLETE
+14 cellular identities	derived_data/publication_source_tables/S10_03.tsv	All celltype family rows	COMPLETE
+10 patients and 9 marker profiles	derived_data/publication_source_tables/S10_02.tsv	All 90 plot-unit-by-marker rows	COMPLETE
+19 native codes	derived_data/publication_source_tables/S10_01.tsv	All native-code family rows	COMPLETE
+34,002 CODEX coordinate display cells	derived_data/publication_source_tables/F4B_COORDINATE_SOURCE_RECORD.tsv	Exact original coordinate-table row count; public source record linked	COMPLETE
+1000 clinical draws per dropout level and positive direction	derived_data/publication_source_tables/S12_03.tsv	Both cohorts; random_dropout; levels 10,20,30,40,50; n and positive_fraction	COMPLETE
+2000 matched programs and 5/0 exceedances	derived_data/publication_source_tables/S13_03.tsv	cohort; program_n and n_random_ge_AF35	COMPLETE

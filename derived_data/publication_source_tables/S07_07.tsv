@@ -1,0 +1,6 @@
+context	metric	n_patients	mean_patient_effect	median_patient_effect	bootstrap_ci_low	bootstrap_ci_high	positive_patients	negative_patients	zero_patients	wilcoxon_signed_rank_p
+all_TCR_linked_cells	expanded_minus_singleton_ptpn22	9	0.256423508640341	0.259883271736357	0.203482918477085	0.303786816421598	9	0	0	0.00915168885265007
+all_TCR_linked_cells	large_minus_singleton_ptpn22	9	0.298411777811733	0.348969453232257	0.22785880811154	0.363602784492414	9	0	0	0.00915168885265007
+all_TCR_linked_cells	expanded_minus_singleton_detection	9	0.126731534073611	0.121316260820664	0.0958313094406416	0.154160435246965	9	0	0	0.00915168885265007
+patient_clonotype_summaries	clone_size_ptpn22_spearman	9	0.169871736191326	0.181876520772382	0.149606677160574	0.190235045114968	9	0	0	0.00915168885265007
+longitudinally_eligible_patient_tissues	persistent_minus_nonpersistent_ptpn22	7	0.270223888955937	0.317526719520342	0.211954751249437	0.323271796848465	7	0	0	0.0224942712224497

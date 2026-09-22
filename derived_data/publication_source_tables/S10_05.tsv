@@ -1,0 +1,11 @@
+plot_unit	state	n_HIGH_regions	n_LOW_regions	HIGH_proximity_enrichment	LOW_proximity_enrichment	DELTA_TOPOLOGY	status	weighting
+U001	Pre	2	2	-0.6582584760010419	0.2359942352168788	-0.8942527112179208	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U002	Pre	2	2	-0.6463367076758777	-0.7064217466692949	0.06008503899341722	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U003	Pre	2	2	-1.350282159969013	-0.9214092257406983	-0.4288729342283144	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U004	Pre	2	2	-0.8840063035581742	-1.08439450660886	0.2003882030506863	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U005	Pre	2	2	-0.6732408604428206	0.1418867007656717	-0.8151275612084923	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U006	Pre	1	1	-0.07210828028833677	-0.9550270301010585	0.8829187498127218	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U007	Pre	1	1	-0.6892558116268649	-1.221972647625247	0.5327168359983824	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U008	Pre	2	2	-0.9244661832311907	-0.3852075513773021	-0.5392586318538886	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U009	Pre	1	1	-0.8601152626719737	-2.242172007139941	1.382056744467967	EVALUABLE	equal_region_within_patient;equal_patient_between_patients
+U010	Pre	2	2	-0.678417561475917	-0.7146212347784631	0.03620367330254604	EVALUABLE	equal_region_within_patient;equal_patient_between_patients

@@ -1,2 +1,2 @@
-check	status	evidence
-No_runnable_analysis_claim	PASS	README declares zero approved current analyses, NOT_READY, 43 inspectable tables, full trace gaps
+scope	status	archive_claim	execution_claim
+RC3	PASS	Source-table values and provenance can be verified	No end-to-end or one-command pipeline claim

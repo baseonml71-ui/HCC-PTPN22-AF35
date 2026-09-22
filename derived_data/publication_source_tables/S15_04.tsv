@@ -1,0 +1,13 @@
+package	version	library
+SingleCellExperiment	1.26.0	SingleCellExperiment
+SummarizedExperiment	1.34.0	SummarizedExperiment
+Matrix	1.7.4	Matrix
+scran	1.32.0	scran
+scuttle	1.14.0	scuttle
+irlba	2.3.7	irlba
+uwot	0.2.4	uwot
+UCell	2.16.0	UCell
+BiocParallel	1.38.0	BiocParallel
+BiocNeighbors	1.22.0	BiocNeighbors
+data.table	1.18.2.1	data.table
+digest	0.6.39	digest

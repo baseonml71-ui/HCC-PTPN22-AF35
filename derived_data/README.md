@@ -1,3 +1,3 @@
-# Derived outputs
+# Derived publication outputs
 
-publication_source_tables contains 43 allowlisted aggregate publication tables. No values, rows or numeric formatting were changed. manifests/SOURCE_TABLE_BINDINGS.tsv connects every included table to its frozen source checksum. Individual-level, cell-level and region-level records were conservatively withheld rather than deidentified by assumption. This is a selected aggregate subset, not all supplementary data. See release/EXCLUDED_FILES.tsv.
+RC3 retains the original 43 aggregate tables byte-for-byte and adds manuscript-facing derivatives with direct identifiers removed or neutralized. See publication_source_tables/README.md and release/FINAL_SOURCE_TABLE_BINDINGS.tsv. The earlier aggregate-only exclusion policy is historical; unsanitized originals remain excluded. No raw expression matrix or TCR sequence is distributed.

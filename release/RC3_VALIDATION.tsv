@@ -1,0 +1,26 @@
+check	status	details
+frozen_and_RC2_scientific_scripts_unchanged	PASS	118 scientific source files unchanged from rc2; no scientific calculation rerun
+original_aggregate_tables_unchanged	PASS	43 originally admitted aggregate tables retain exact bytes
+unchanged_LICENSE	PASS	Unchanged from rc2
+unchanged_CITATION.cff	PASS	Unchanged from rc2
+unchanged_ZENODO_METADATA_DRAFT.md	PASS	Unchanged from rc2
+unchanged_config/AF35_genes.txt	PASS	Unchanged from rc2
+AF35_integrity	PASS	35 ordered unique members; PTPN22 excluded
+manuscript_figures_and_original_source_protection	PASS	120 original bound scientific files checked; 0 changed/missing
+CFF_schema	PASS	CFF 1.2.0 schema validates; six supplied authors retained; no new public URL/DOI invented
+all_main_panels	PASS	41 unique lettered panels
+main_provenance_closure	PASS	0 UNRESOLVED; 38 COMPLETE_SOURCE_TABLE_ONLY; 3 DISPLAY_ONLY; not executable proof
+panel_table_and_script_hash_references	PASS	0 missing or mismatched repository table/script identities
+central_claims	PASS	19 current Abstract/Results claim groups; 145 live row/field checks plus 12 additional checks; no descriptive Methods inventory
+supplement_coverage	PASS	92 table parts plus 15 figure groups; source availability only, no executable traceability claim
+script_roles	PASS	56 frozen analysis/helper scripts, 62 historical (three mixed originals plus 59 RC2 copies), four display, three utility scripts
+GSE287319_labeling	PASS	Mixed branches preserved, accurately labeled, not current manuscript entrypoints
+source_export_value_preservation	PASS	130 bound exports; 2904176 retained fields compared to originals; 0 mismatches; numerical strings unchanged
+clinical_neutral_key_join	PASS	GSE302495 scores and endpoint map retain exact 38-unit join without source patient IDs
+credential_and_PHI_risk_scan	PASS	0 findings; direct identifier columns and credential patterns scanned; original subject/cell IDs and re-identification keys not distributed. No claim of immunity to statistical re-identification
+absolute_local_paths	PASS	0 local workstation path findings across public payload text
+relative_markdown_links	PASS	0 broken of 54 current links; historical snapshot paths are provenance only
+excluded_Figure3A_asset	PASS	No image/figure binaries in archive; unresolved Figure 3A asset excluded
+Python_syntax	PASS	All archived Python and utility sources parse; no analytical code imported/executed
+local_only	PASS	No remote or push; rc1/rc2 remain preserved
+manifest_and_checksums	PASS	Final payload set, sizes and SHA256 verified by verify_release.py; execution-limitation inspection succeeds without running science

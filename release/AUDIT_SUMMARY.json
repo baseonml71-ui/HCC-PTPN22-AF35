@@ -1,102 +1,16 @@
 {
-  "release": "v1.0.0-rc2",
-  "gate": "NOT_READY",
-  "stop_state": "HCC_PUBLIC_REPOSITORY_V1_RC2_AUTHOR_REVIEW",
-  "checks": [
-    {
-      "check": "python_parse_and_allowed_AST_changes",
-      "status": "PASS",
-      "details": "40 analytical candidates plus three utilities; only specified administrative authorization removal permitted"
-    },
-    {
-      "check": "R_parse_and_scientific_expression_equivalence",
-      "status": "PASS",
-      "details": "19 R candidates parsed by R 4.4.1; non-string AST identical to original source; candidate bytes equal rc1 frozen blobs"
-    },
-    {
-      "check": "protected_scientific_files",
-      "status": "PASS",
-      "details": "120 bound scripts/tables/manuscript/figure files unchanged; not a rerun of the broader historical 8844-file audit"
-    },
-    {
-      "check": "AF35_definition",
-      "status": "PASS",
-      "details": "Ordered vector byte-identical to rc1; 35 unique genes; PTPN22 excluded"
-    },
-    {
-      "check": "MIT_CFF_Zenodo_metadata",
-      "status": "PASS",
-      "details": "Unchanged; CFF validates against locally retained official 1.2.0 schema; no remote verification or issued identifier claimed"
-    },
-    {
-      "check": "credential_scan",
-      "status": "PASS",
-      "details": "0 combined credential/identifier findings; pattern scan across text payload, no secret strings emitted"
-    },
-    {
-      "check": "PHI_scan",
-      "status": "PASS_STATIC_SCOPE",
-      "details": "No new individual-level data admitted; identifier-column scan on 43 included aggregate tables, code identifier names are not patient records. Static scan is not clinical de-identification certification"
-    },
-    {
-      "check": "absolute_path_scan",
-      "status": "PASS",
-      "details": "0 local absolute path findings across text payload"
-    },
-    {
-      "check": "broken_README_and_markdown_links",
-      "status": "PASS",
-      "details": "0 missing of 142 checked relative Markdown links; explicitly historical rc1 snapshots excluded"
-    },
-    {
-      "check": "missing_current_script_config_references",
-      "status": "PASS",
-      "details": "0 missing repository-owned current catalog/map/parameter references; source identifiers explicitly external to payload"
-    },
-    {
-      "check": "missing_relative_input_references",
-      "status": "FAIL_CLOSED",
-      "details": "339 detected input expressions lack complete runnable relative-path/acquisition contracts; module/helper imports may add dependencies. This failure blocks publication, not hidden by empty active registry"
-    },
-    {
-      "check": "duplicate_current_entrypoints",
-      "status": "PASS_EMPTY_REGISTRY",
-      "details": "Zero approved active analyses; seven family review READMEs. Empty registry is not evidence of scientific readiness"
-    },
-    {
-      "check": "public_source_map_coverage",
-      "status": "PASS",
-      "details": "148 rows: all 41 Main panels, 15 supplement figure groups and 92 supplement table parts S1-S15"
-    },
-    {
-      "check": "public_source_map_trace_closure",
-      "status": "FAIL_CLOSED",
-      "details": "40/41 Main panels and 107/107 supporting supplement items TRACE_INCOMPLETE; fixed membership only complete"
-    },
-    {
-      "check": "private_authorization_copy_removal",
-      "status": "PASS",
-      "details": "Eight known copy dependencies removed; private scientific/helper/input contract closure still unresolved"
-    },
-    {
-      "check": "private_execution_contract_closure",
-      "status": "FAIL_CLOSED",
-      "details": "Zero active analyses; no assertion that all candidate scientific protocol requirements are publicly closed"
-    },
-    {
-      "check": "historical_branch_separation",
-      "status": "CONTAINED_NOT_CLOSED",
-      "details": "Three candidates retain GSE287319 branches; none is an approved entrypoint. No branch extraction or single-current-estimand execution claim"
-    },
-    {
-      "check": "local_git_boundary",
-      "status": "PASS",
-      "details": "No remote; rc1 tag preserved; no network publication attempted"
-    },
-    {
-      "check": "third_party_raw_redistribution",
-      "status": "PASS_UNCHANGED_SCOPE",
-      "details": "43 unchanged aggregate tables only; no raw, individual-level or figure binaries newly admitted; no new permission inferred"
-    }
-  ]
+  "release": "v1.0.0-rc3",
+  "gate": "READY_FOR_GITHUB_PUBLICATION",
+  "stop_state": "HCC_PUBLIC_REPOSITORY_V1_RC3_AUTHOR_REVIEW",
+  "scope": "TRANSPARENT_PUBLICATION_CODE_ARCHIVE_AND_FINAL_SOURCE_TABLE_PROVENANCE",
+  "main_panels": 41,
+  "main_unresolved": 0,
+  "central_claim_groups": 19,
+  "central_claims_unresolved": 0,
+  "supplement_source_table_only": 107,
+  "scientific_sources_unchanged": 118,
+  "original_aggregate_tables_unchanged": 43,
+  "credential_PHI_findings": 0,
+  "absolute_path_findings": 0,
+  "published": false
 }

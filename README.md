@@ -1,50 +1,58 @@
-# HCC PTPN22–AF35 analysis — local RC2
+# HCC PTPN22–AF35 publication-support archive
 
-**Release gate: NOT_READY.** Stop state: HCC_PUBLIC_REPOSITORY_V1_RC2_AUTHOR_REVIEW. This repository has not been published, pushed or uploaded.
+## Overview
 
-This candidate preserves 59 sanitized frozen rc1 source files, 59 current source candidates, fixed AF35 membership, historical software records, 43 aggregate publication tables and a source-result evidence index. It has **zero approved current analysis entrypoints**. Removal of eight administrative private-file copies did not close scientific input contracts. Public raw datasets must be obtained from their original repositories; accession records alone do not establish complete reproduction instructions.
+This repository is a publication-support archive containing the frozen analysis code, fixed AF35 definition, dataset provenance, environment records, final source tables and manuscript-facing derived outputs used for the reported analyses. Because the study was developed through multiple sequential analysis stages, the archived scripts are not presented as a single end-to-end executable pipeline. Original public datasets should be obtained from their source repositories.
 
-The [release gate](PUBLIC_REPOSITORY_RELEASE_GATE.md), [traceability audit](release/PUBLIC_RESULT_TRACEABILITY.tsv), [source map](release/PUBLIC_ANALYSIS_SOURCE_MAP.tsv) and [unresolved actions](release/UNRESOLVED_AUTHOR_ACTIONS.tsv) are authoritative for this candidate. No full one-command or source-to-result reproducibility claim is made.
+## Scientific framework
 
-## Scientific scope
+PTPN22 anchors an activation-feedback T-cell state; fixed AF35 provides a distributed state readout. Patient/sample/donor is the biological replicate. Clonotype, conditional spatial and clinical associations do not establish universal causal regulation, an ICI-exclusive biomarker or a clinical cutoff.
 
-The manuscript examines a PTPN22-associated activation-feedback T-cell state across patient-level clonotype, spatial and clinical contexts. Patient/sample is the biological replicate; cells and regions are nested observations. Association does not establish causal PTPN22 control of AF35, a universal ICI predictor or a clinical cutoff. See [scientific limitations](docs/LIMITATIONS.md).
+## Repository scope
 
-## Reproducibility levels
+The archive includes 59 sanitized frozen analysis/helper sources, historical RC2 packaging copies, fixed definitions, environment records and manuscript-facing source-table exports. See [scope and limitations](docs/REPRODUCIBILITY_SCOPE.md). This local RC3 candidate has not been published or uploaded.
 
-**Level 1 — runnable from included derived data:** package integrity checks and inspection of 43 exact aggregate source tables are available. No scientific analysis pipeline has been demonstrated runnable from those tables. AF35 membership is directly verifiable from the included 35-gene vector.
+## What this repository can reproduce
 
-**Level 2 — requires public source datasets:** intended analytical reconstruction uses the [source manifest](data/SOURCE_DATA_MANIFEST.tsv) and [acquisition guidance](data/DOWNLOAD_INSTRUCTIONS.md). No analysis currently qualifies as a verified Level 2 pipeline because deterministic module contracts remain incomplete.
+Final manuscript values can be verified against the included manuscript-facing source tables. Readers can inspect exact frozen definitions, numerical estimates, intervals, populations, matched-reference distributions and their source hashes. Run `python scripts/utilities/verify_release.py` for package integrity; this is not a biological analysis.
 
-**Level 3 — source provenance with raw data absent:** source identities and hashes are recorded where verified, but most chains remain TRACE_INCOMPLETE. They must not be read as completed Level 3 reproducibility. Original raw and individual-level data are not redistributed. Exact availability and upstream producer uncertainty are retained in the [derived-input ledger](release/DERIVED_INPUT_LEDGER.tsv).
+## What this repository does not reproduce automatically
 
-## Verification and review order
+No fully reproducible pipeline, one-command reproduction or deterministic raw-to-figure automation is claimed. Historical branches may not execute without path adaptation, source downloads, original helpers or unavailable freeze records. No raw-data rerun occurred in RC3.
 
-```sh
-python scripts/utilities/verify_release.py
-python scripts/utilities/inspect_prerequisites.py
-```
+## AF35 definition
 
-The first command checks payload integrity and AF35 membership only. The second intentionally exits with code 2 because reproduction blockers remain. Neither runs analyses or downloads data. The optional scripts/utilities/materialize_workspace.py copies candidates into the original module layout under ignored data/local_workspace for code inspection only.
+[AF35_genes.txt](config/AF35_genes.txt) preserves the ordered 35-member, unsigned, equal-weight definition excluding PTPN22. [Origin documentation](docs/AF35_PROVENANCE.md) separates exact vector recovery from the unrecovered original gene-reduction rule.
 
-Review family documentation in order:
+## Main-figure provenance
 
-1. [Anchor](scripts/current/01_anchor/README.md)
-2. [State](scripts/current/02_state/README.md)
-3. [AF35 measurement](scripts/current/03_AF35_measurement/README.md)
-4. [Clonotype](scripts/current/04_clonotype/README.md)
-5. [Spatial](scripts/current/05_spatial/README.md)
-6. [Clinical](scripts/current/06_clinical/README.md)
-7. [Perturbation](scripts/current/07_perturbation/README.md)
+The [41-panel provenance index](release/MAIN_FIGURE_PANEL_PROVENANCE.tsv) distinguishes source-table-only and display-only provenance. Source-table-only is acceptable archival evidence, not a promise that the unique historical production run has been reconstructed. The [manuscript claim map](release/MANUSCRIPT_RESULT_SOURCE_MAP.tsv) links current Abstract/Results claim groups to source rows and checks.
 
-These are review entrypoints, not analysis launchers. The [packaging boundary](docs/RC2_PACKAGING_BOUNDARY.md) explains frozen-original identity, exclusions and static audit limitations. No missing scientific protocol was reconstructed from memory.
+## Datasets and accessions
 
-## Definition, provenance and data
+Use the [dataset manifest](data/SOURCE_DATA_MANIFEST.tsv) and [download notes](data/DOWNLOAD_INSTRUCTIONS.md). Public original data remain under their original terms. Original CODEX coordinates are linked to their public record; no raw expression matrix or TCR sequence is redistributed.
 
-[AF35 membership](config/AF35_genes.txt) remains 35 ordered unique genes, unsigned and equally weighted, excluding PTPN22. See [definition](docs/AF35_DEFINITION.md) and [origin](docs/AF35_PROVENANCE.md). The original exact vector and creation patch were recovered; a gene-by-gene reduction rule was not recovered. No definition, statistic, estimand, manuscript or figure was changed during RC2.
+## Frozen scripts
 
-The [table bindings](derived_data/manifests/SOURCE_TABLE_BINDINGS.tsv) and [frozen-to-current map](release/FROZEN_TO_PUBLIC_SCRIPT_MAP.tsv) preserve hashes. Figures, decorative assets and individual-level inputs remain excluded. Original source terms still apply. The [environment records](environment/README.md) are incomplete historical records; the topology SciPy version is unknown.
+The [script archive index](release/SCRIPT_ARCHIVE_INDEX.tsv) uses FROZEN_ANALYSIS_SCRIPT, DISPLAY_SCRIPT, UTILITY_SCRIPT and HISTORICAL_SCRIPT roles. NO_ARCHIVAL is an execution limitation, not an archive exclusion. See [running archived scripts](docs/RUNNING_ARCHIVED_SCRIPTS.md). GSE287319 branch was not used for the final manuscript.
 
-## Citation and license
+## Source tables
 
-[CITATION.cff](CITATION.cff) records the supplied six authors and manuscript title. [Zenodo metadata](ZENODO_METADATA_DRAFT.md) remains an unpublished draft. No repository URL or release DOI has been invented. [MIT](LICENSE) covers original code and accompanying documentation, not third-party datasets or assets. See [exclusions](release/EXCLUDED_FILES.tsv).
+See the [table guide](derived_data/publication_source_tables/README.md), [source bindings](release/FINAL_SOURCE_TABLE_BINDINGS.tsv) and [supplement index](release/SUPPLEMENT_PROVENANCE_INDEX.tsv). All 92 supplement table parts and 15 supplementary figure groups have source-table availability records; executable script traceability is not claimed.
+
+## Software environments
+
+[Historical software records](environment/README.md) identify recovered R/Python environments and module records. A complete lockfile is not available and historical topology SciPy remains unknown.
+
+## Known limitations
+
+Archived execution prerequisites remain incomplete. De-identified exports retain only manuscript-facing fields and neutral pairing labels, not external identifiers. Figure 3A decorative rights remain unresolved; that asset and the complete Figure 3 binaries are excluded. No external source-license expansion is implied. See the [release gate](PUBLIC_REPOSITORY_RELEASE_GATE.md).
+
+## Citation
+
+Use [CITATION.cff](CITATION.cff) for the supplied six authors and manuscript title. [Zenodo metadata](ZENODO_METADATA_DRAFT.md) remains a draft; no repository URL or archive DOI has been invented.
+
+## License
+
+[MIT](LICENSE) applies to original code and accompanying documentation. It does not override licenses or terms of original datasets, third-party articles, software or assets.
+

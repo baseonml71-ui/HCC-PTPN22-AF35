@@ -1,0 +1,12 @@
+plot_unit	response	total_source_spots	tissue_included_spots	zero_total_count_spots	zero_count_spots_in_original_analysis	spots_entering_original_residualization	spots_entering_original_knn	out_of_tissue_spots	explicit_analysis_tissue_filter	disconnected_tissue_islands	neighbor_distance_summary	classification	sensitivity_retained_spots
+U001	Responder	308	308	0	0	308	308	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	B. SOURCE_FILTER_CONFIRMED	308
+U002	Responder	970	970	0	0	970	970	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	B. SOURCE_FILTER_CONFIRMED	970
+U003	Nonresponder	1997	1997	16	16	1997	1997	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	C. MATERIAL_INPUT_RISK_REQUIRES_BOUNDED_SENSITIVITY	1981
+U004	Nonresponder	777	777	3	3	777	777	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	C. MATERIAL_INPUT_RISK_REQUIRES_BOUNDED_SENSITIVITY	774
+U005	Nonresponder	2083	2083	159	159	2083	2083	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	C. MATERIAL_INPUT_RISK_REQUIRES_BOUNDED_SENSITIVITY	1924
+U006	Nonresponder	1064	1064	0	0	1064	1064	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	B. SOURCE_FILTER_CONFIRMED	1064
+U007	Responder	996	996	0	0	996	996	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	B. SOURCE_FILTER_CONFIRMED	996
+U008	Responder	800	800	12	12	800	800	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	C. MATERIAL_INPUT_RISK_REQUIRES_BOUNDED_SENSITIVITY	788
+U009	Responder	1155	1155	204	204	1155	1155	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	C. MATERIAL_INPUT_RISK_REQUIRES_BOUNDED_SENSITIVITY	951
+U010	Nonresponder	725	725	2	2	725	725	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	C. MATERIAL_INPUT_RISK_REQUIRES_BOUNDED_SENSITIVITY	723
+U011	Nonresponder	762	762	1	1	762	762	0	NONE; source object in_tissue=1 for every retained row	NOT_RECORDED	NOT_RECORDED	C. MATERIAL_INPUT_RISK_REQUIRES_BOUNDED_SENSITIVITY	761

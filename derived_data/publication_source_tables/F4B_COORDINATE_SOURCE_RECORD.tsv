@@ -1,0 +1,2 @@
+dataset	public_source	source_object	source_sha256	displayed_cells	identities	display_method	redistributed
+Wu Zenodo 19123188	https://zenodo.org/records/19123188	WU_CODEX_COORDINATE_RECONSTRUCTED_PROOF_REGION.tsv	6ed4624cd35276bf88d2e1fa941f759a78779e2f571382f3a52920e3c1ae6941	34002	14	coordinate Voronoi; adjacent-section context, not same-cell colocalization	NO; obtain original coordinates from public source; H&E and tissue images omitted
