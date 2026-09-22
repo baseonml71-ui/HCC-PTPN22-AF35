@@ -1,0 +1,10 @@
+﻿cohort	retained_depth_fraction	eligibility	reason	draw_n	rng_seed	rho_median	rho_5th_percentile	rho_minimum	median_rank_displacement_median	max_rank_displacement_95th_percentile	outcome_loaded
+ERP117672	0.75	NOT_APPLICABLE	no integer count matrix in frozen response-blind object	0	NA	NA	NA	NA	NA	NA	NO
+ERP117672	0.5	NOT_APPLICABLE	no integer count matrix in frozen response-blind object	0	NA	NA	NA	NA	NA	NA	NO
+ERP117672	0.25	NOT_APPLICABLE	no integer count matrix in frozen response-blind object	0	NA	NA	NA	NA	NA	NA	NO
+GSE302495	0.75	ELIGIBLE_INTEGER_COUNTS	binomial thinning of AF35 counts plus aggregate non-AF library remainder	1000	20968330	0.9982492614071562	0.9967173651384177	0.9954043111937849	0	0.08108108108108109	NO
+GSE302495	0.5	ELIGIBLE_INTEGER_COUNTS	binomial thinning of AF35 counts plus aggregate non-AF library remainder	1000	20965830	0.9967173651384177	0.9943100995732574	0.9886201991465149	0	0.10810810810810811	NO
+GSE302495	0.25	ELIGIBLE_INTEGER_COUNTS	binomial thinning of AF35 counts plus aggregate non-AF library remainder	1000	20963330	0.9940912572491519	0.9901520954152532	0.9848998796367218	0.02702702702702703	0.13513513513513514	NO
+GSE104580	0.75	NOT_APPLICABLE	no integer count matrix in frozen response-blind object	0	NA	NA	NA	NA	NA	NA	NO
+GSE104580	0.5	NOT_APPLICABLE	no integer count matrix in frozen response-blind object	0	NA	NA	NA	NA	NA	NA	NO
+GSE104580	0.25	NOT_APPLICABLE	no integer count matrix in frozen response-blind object	0	NA	NA	NA	NA	NA	NA	NO

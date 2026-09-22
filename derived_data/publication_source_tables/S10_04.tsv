@@ -1,0 +1,2 @@
+﻿N_evaluable	N_authoritative	mean_DELTA_TOPOLOGY	median_DELTA_TOPOLOGY	n_positive	positive_fraction	exact_two_sided_P	bootstrap_CI_low	bootstrap_CI_high	bootstrap_resamples	sign_configurations	positive_count_required	direction_consistency_pass	mean_positive	primary_P_pass	abundance_adjusted_positive	primary_gate
+10	10	0.04168574071171048	0.04814435614798163	6	0.6	0.8515625	-0.373785214631126	0.49589193265732	10000	1024	8	False	True	False	True	NOT_SUPPORTED

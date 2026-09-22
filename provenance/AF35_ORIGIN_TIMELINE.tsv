@@ -1,0 +1,8 @@
+event	timestamp_utc	timestamp_local	artifact_name	sha256	boundary
+Contemporaneous functional-program architecture	2026-08-28T07:08:40.161Z	2026-08-28T15:08:40.161000+08:00	functional-program record		Historical traceability only; gene-by-gene reduction rule not retained
+Exact-vector creation patch	2026-08-28T07:38:48.174Z	2026-08-28T15:38:48.174000+08:00	09_spatial_niche_GSE238264.R	f2cf9f01b3f86d9a1c1e6d522556a7c71625b9b8ddac71b25359c91ea4d1f7da	Historical traceability only; gene-by-gene reduction rule not retained
+Exact-vector file creation	2026-08-28T07:38:48.203Z	2026-08-28T15:38:48.203000+08:00	09_spatial_niche_GSE238264.R		Historical traceability only; gene-by-gene reduction rule not retained
+First spatial execution	2026-08-28T07:38:59.161Z	2026-08-28T15:38:59.161000+08:00	09_spatial_niche_GSE238264.R		Historical traceability only; gene-by-gene reduction rule not retained
+Rank-display correction without membership change	2026-08-28T07:39:57.795Z	2026-08-28T15:39:57.795000+08:00	09_spatial_niche_GSE238264.R		Historical traceability only; gene-by-gene reduction rule not retained
+First spatial report	2026-08-28T07:41:34.938Z	2026-08-28T15:41:34.938000+08:00	spatial report		Historical traceability only; gene-by-gene reduction rule not retained
+Subsequent freeze checkpoint	2026-08-28T08:36:38.434Z	2026-08-28T16:36:38.434000+08:00	freeze checkpoint		Historical traceability only; gene-by-gene reduction rule not retained

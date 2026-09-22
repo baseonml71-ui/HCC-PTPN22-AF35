@@ -1,0 +1,4 @@
+﻿dataset	contrast_id	condition	target_condition	target_gene	donor_n	targeted_cell_n	guide_n	on_target_effect_size_author_scale	on_target_significant	guide_correlation_all	guide_correlation_all_p	downstream_de_gene_n	n_up_genes	n_down_genes	inference_unit	source_object_etag
+GSE314342	PTPN22_CRISPRI_VS_NTC_REST	Rest	PTPN22_Rest	PTPN22	4	707	2	-24.03907429053709	true	0.0423329562855951	0.000005498760026716478	1	0	1	donor-aware pooled model; cells not biological N	c9ff52fcc6d6ce8a387a76dc757a5b97-2002
+GSE314342	PTPN22_CRISPRI_VS_NTC_STIM48HR	Stim48hr	PTPN22_Stim48hr	PTPN22	4	707	2	-28.330372295985345	true	0.1092602286250568	6.275811712606064e-32	2	0	2	donor-aware pooled model; cells not biological N	c9ff52fcc6d6ce8a387a76dc757a5b97-2002
+GSE314342	PTPN22_CRISPRI_VS_NTC_STIM8HR	Stim8hr	PTPN22_Stim8hr	PTPN22	4	667	2	-22.458232376534564	true	0.1165954847063985	3.744290136910576e-36	1	0	1	donor-aware pooled model; cells not biological N	c9ff52fcc6d6ce8a387a76dc757a5b97-2002

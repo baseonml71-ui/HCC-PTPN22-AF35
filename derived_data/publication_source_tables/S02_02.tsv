@@ -1,0 +1,19 @@
+﻿candidate	dimension	grade	evidence	weight	weighted_points
+MAP4K1	tissue_state	4	Discovery tumor: positive terminal-exhaustion and Tfh-like associations with patient-level bootstrap CIs above zero.	20	20
+MAP4K1	cross_scrna_replication	4	Independent GSE326201 reproduces positive terminal-exhaustion, Tfh-like, Treg and proliferating associations.	20	20
+MAP4K1	ici_response	1	Responder mean difference is positive but uncertain; detection-rate effect is null and relevant author states are not response-discriminatory.	25	6.25
+MAP4K1	sctcr_clonal_fate	1	Public SCE lacks cell-level clonotype; sample-level MAP4K1 associations with clonality are weak and directionally mixed.	20	5
+MAP4K1	perturbation_plausibility	4	Published genetic, inhibitor and degrader perturbations support enhanced T-cell function after HPK1 loss/inhibition (PMID 32860752).	10	10
+MAP4K1	druggability	4	HPK1 has genetic, inhibitor and degrader evidence and active clinical development; no docking was run.	5	5
+PTPN22	tissue_state	4	Discovery tumor shows positive effector, terminal-exhaustion, Tfh-like and Treg associations, several with CIs above zero.	20	20
+PTPN22	cross_scrna_replication	4	GSE326201 reproduces effector, terminal-exhaustion and Tfh-like directions with CIs above zero.	20	20
+PTPN22	ici_response	2	Responder mean expression is higher with moderate Cliff effect, but bootstrap median-difference CI crosses zero and detection-rate evidence is weak.	25	12.5
+PTPN22	sctcr_clonal_fate	2	No cell-level fate link; however, patient-level PTPN22 expression is coherently associated with multiple repertoire clonality metrics.	20	10
+PTPN22	perturbation_plausibility	3	Knockout and small-molecule inhibition support antitumor activity, with chronic-stimulation exhaustion as a caveat (PMIDs 34283806, 38056892).	10	7.5
+PTPN22	druggability	2	A reported small-molecule inhibitor exists, but phosphatase selectivity/translation is less mature than kinase targets; no docking was run.	5	2.5
+PIK3CG	tissue_state	1	Discovery inflammatory-myeloid association is weak and suppressive-TAM direction is inconsistent.	20	5
+PIK3CG	cross_scrna_replication	2	Inflammatory association strengthens in GSE326201, while suppressive-TAM direction reverses relative to discovery.	20	10
+PIK3CG	ici_response	3	PIK3CG detection is lower in responders with a bootstrap CI below zero, consistent with a resistance-associated myeloid target.	25	18.75
+PIK3CG	sctcr_clonal_fate	1	TCR evidence is indirect for a myeloid target and candidate/repertoire correlations are weak or mixed.	20	5
+PIK3CG	perturbation_plausibility	4	PI3K-gamma inhibition has preclinical macrophage activation and checkpoint-combination support (PMID 33785652).	10	10
+PIK3CG	druggability	4	Selective PI3K-gamma inhibitors provide strong tractability evidence; no docking was run.	5	5

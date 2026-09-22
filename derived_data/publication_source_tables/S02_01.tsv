@@ -1,0 +1,4 @@
+﻿rank	candidate	weighted_points	biology_points_excluding_druggability	gate3_ici_grade	gate3_sctcr_grade	decision
+1	PTPN22	72.5	70	2	2	CONDITIONAL GO; selected lead
+2	MAP4K1	66.25	61.25	1	1	NO-GO as lead; backup
+3	PIK3CG	53.75	48.75	3	1	NO-GO for current paper

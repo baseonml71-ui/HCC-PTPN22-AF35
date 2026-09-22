@@ -1,0 +1,3 @@
+# AF35 origin summary
+
+Gate: `A3_EXACT_SPECIFICATION_RECOVERED_NO_REDUCTION_RULE`. The original exact vector and creation patch were recovered. Original script snapshot SHA256: `f2cf9f01b3f86d9a1c1e6d522556a7c71625b9b8ddac71b25359c91ea4d1f7da`; subsequent frozen spatial script SHA256: `d6a01aacb10597cfa39fd611495e3ea41f0057c75a71fc9d18c3b46a01b7a5b8`. These hashes refer to original code artifacts, not sanitized copies. The 35-member ordered vector matches config/AF35_genes.txt and excludes PTPN22. Private session records are intentionally not distributed. The public timeline summarizes recovered events only.

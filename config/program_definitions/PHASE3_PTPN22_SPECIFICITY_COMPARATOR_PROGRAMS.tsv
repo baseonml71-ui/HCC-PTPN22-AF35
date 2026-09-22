@@ -1,0 +1,77 @@
+program	gene	score_method	provenance	freeze_status
+TCR_activation	CD3D	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	CD3E	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	CD3G	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	CD247	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	LCK	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	FYN	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	ZAP70	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	LAT	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	LCP2	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+TCR_activation	TRAT1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	MKI67	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	TOP2A	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	STMN1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	TUBA1B	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	TYMS	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	PCNA	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	UBE2C	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+proliferation	CENPF	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	NKG7	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	GNLY	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	PRF1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	GZMB	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	GZMH	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	CTSW	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	CCL5	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+cytotoxicity	KLRD1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	IFIT1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	IFIT2	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	IFIT3	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	ISG15	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	MX1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	OAS1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	STAT1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	IRF1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	IFI6	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+IFN_response	IFI44L	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 script 07_functional_program_GSE206325.R before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	NFKB1	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	NFKB2	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	REL	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	RELA	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	RELB	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	NFKBIA	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	TNFAIP3	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+NFkB_inflammatory	BCL3	mean of per-gene z scores within dataset/context	Frozen verbatim from Phase 2 NFkB program before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	PDCD1	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	CTLA4	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	LAG3	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	TIGIT	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	HAVCR2	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	CD274	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	PDCD1LG2	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	TNFRSF9	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	TOX	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	ENTPD1	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	CXCL13	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	LAYN	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+checkpoint_exhaustion	BATF	mean of per-gene z scores within dataset/context	Frozen union of Phase 2 checkpoint and exhaustion programs before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	PTPRC	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	HLA-DRA	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	LST1	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	TYROBP	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	FCER1G	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	CD74	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	MS4A1	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	CD79A	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	CD3D	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	CD3E	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+broad_immune_abundance	NKG7	mean of per-gene z scores within dataset/context	Prespecified canonical leukocyte-lineage abundance panel before Phase 3 response testing	FROZEN_PRETEST
+T_cell_abundance	CD3D	mean of per-gene z scores within dataset/context	Frozen from Phase 2 spatial T-cell panel before Phase 3 response testing	FROZEN_PRETEST
+T_cell_abundance	CD3E	mean of per-gene z scores within dataset/context	Frozen from Phase 2 spatial T-cell panel before Phase 3 response testing	FROZEN_PRETEST
+T_cell_abundance	CD3G	mean of per-gene z scores within dataset/context	Frozen from Phase 2 spatial T-cell panel before Phase 3 response testing	FROZEN_PRETEST
+T_cell_abundance	TRAC	mean of per-gene z scores within dataset/context	Frozen from Phase 2 spatial T-cell panel before Phase 3 response testing	FROZEN_PRETEST
+T_cell_abundance	CD247	mean of per-gene z scores within dataset/context	Frozen from Phase 2 spatial T-cell panel before Phase 3 response testing	FROZEN_PRETEST
+generic_activation_core	DERIVED:TCR_activation	mean of standardized TCR_activation, proliferation, and IFN_response scores	Prespecified composite before Phase 3 response testing; no post-result tuning	FROZEN_PRETEST
+generic_activation_core	DERIVED:proliferation	mean of standardized TCR_activation, proliferation, and IFN_response scores	Prespecified composite before Phase 3 response testing; no post-result tuning	FROZEN_PRETEST
+generic_activation_core	DERIVED:IFN_response	mean of standardized TCR_activation, proliferation, and IFN_response scores	Prespecified composite before Phase 3 response testing; no post-result tuning	FROZEN_PRETEST

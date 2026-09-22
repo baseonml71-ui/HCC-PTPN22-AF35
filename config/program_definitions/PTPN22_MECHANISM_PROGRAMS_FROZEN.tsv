@@ -1,0 +1,111 @@
+program	gene	score_method	source_program	freeze_status
+PTPN22_activation_feedback_35	CD3D	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	CD3E	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	CD3G	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	CD247	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	LCK	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	FYN	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	ZAP70	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	LAT	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	LCP2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	TRAT1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	NFKB1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	REL	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	RELA	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	NFKBIA	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	TNFAIP3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	STAT1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	IRF1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	IFIT1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	IFIT2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	IFIT3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	ISG15	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	MX1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	OAS1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	CXCL9	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	CXCL10	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	IFNG	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	TNF	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	CCL5	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	NKG7	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	PRF1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	GZMB	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	PDCD1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	LAG3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	TIGIT	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+PTPN22_activation_feedback_35	TOX	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	PTPN22_associated_activation_feedback	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	CD3D	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	CD3E	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	CD3G	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	CD247	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	LCK	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	FYN	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	ZAP70	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	LAT	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	LCP2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+TCR_activation	TRAT1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	TCR_activation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	NFATC1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	NFATC2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	NFATC3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	RCAN1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	EGR1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	EGR2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	FOS	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	JUN	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFAT	IL2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFAT	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	JUN	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	JUNB	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	JUND	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	FOS	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	FOSB	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	FOSL1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	FOSL2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	ATF3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+AP1	BATF	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	AP1	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	NFKB1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	NFKB2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	REL	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	RELA	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	RELB	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	NFKBIA	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	TNFAIP3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+NFkB	BCL3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	NFkB	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	IFIT1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	IFIT2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	IFIT3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	ISG15	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	MX1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	OAS1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	STAT1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	IRF1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	IFI6	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+IFN_response	IFI44L	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	IFN_response	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	MKI67	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	TOP2A	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	STMN1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	TUBA1B	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	TYMS	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	PCNA	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	UBE2C	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+proliferation	CENPF	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	proliferation	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	NKG7	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	GNLY	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	PRF1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	GZMB	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	GZMH	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	CTSW	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	CCL5	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+cytotoxicity	KLRD1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	cytotoxicity	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	PDCD1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	CTLA4	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	LAG3	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	TIGIT	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	HAVCR2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	CD274	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	PDCD1LG2	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	TNFRSF9	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	TOX	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	ENTPD1	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	CXCL13	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	LAYN	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION
+checkpoint_exhaustion	BATF	mean of gene-wise z scores from log1p(CP10K), standardized across the prespecified analysis population	checkpoint plus exhaustion union	FROZEN_BEFORE_GSE265961_EFFECT_CALCULATION

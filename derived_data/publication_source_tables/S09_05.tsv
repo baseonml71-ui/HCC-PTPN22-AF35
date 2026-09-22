@@ -1,0 +1,2 @@
+﻿n_responder	n_nonresponder	responder_mean	nonresponder_mean	effect	bootstrap_ci_low	bootstrap_ci_high	exact_permutation_p_two_sided	loo_min	loo_max	loo_same_direction_fraction	analysis	seed
+5	6	0.401650442567877	0.26530829130909	0.136342151258787	0.0272963067377232	0.248530784383367	0.0454545454545455	0.090169235581832	0.175530654366552	1	single_source_supported_zero_count_exclusion	20260921

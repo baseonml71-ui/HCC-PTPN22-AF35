@@ -1,0 +1,4 @@
+Recorded analysis environments: R 4.4.1 (2024-06-14 ucrt), Windows x64.
+Package versions are module-specific: see session_info/ and RECORDED_R_PACKAGES.tsv.
+Spatial methods additionally record FNN 1.1.4.1, rhdf5 2.48.0, arrow 20.0.0.2, Matrix 1.7-4, data.table 1.18.2.1, digest 0.6.39.
+No universal lockfile was recovered; these are historical records, not a newly tested installation.

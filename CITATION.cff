@@ -1,0 +1,45 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite this software and the associated manuscript. Repository URL and DOI are pending publication; no public release has occurred.",
+  "type": "software",
+  "title": "PTPN22 anchors an activation-feedback T-cell state across clonotypic, spatial and pretreatment clinical contexts in hepatocellular carcinoma",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "family-names": "Sun",
+      "given-names": "Xiguang",
+      "orcid": "https://orcid.org/0009-0004-8039-1204"
+    },
+    {
+      "family-names": "Ding",
+      "given-names": "Changjun"
+    },
+    {
+      "family-names": "Wei",
+      "given-names": "Yaqing"
+    },
+    {
+      "family-names": "Zhang",
+      "given-names": "Chenhui"
+    },
+    {
+      "family-names": "Yao",
+      "given-names": "Hao"
+    },
+    {
+      "family-names": "Sun",
+      "given-names": "Jinjin",
+      "orcid": "https://orcid.org/0000-0003-3676-1437"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "hepatocellular carcinoma",
+    "PTPN22",
+    "AF35",
+    "T cells",
+    "immune checkpoint inhibitors",
+    "spatial transcriptomics",
+    "clonotypes"
+  ]
+}

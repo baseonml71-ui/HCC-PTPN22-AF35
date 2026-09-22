@@ -1,0 +1,67 @@
+source_artifact	category	action	reason
+HCC_FINAL_AI_REVIEW_CORRECTION_20260921_V1/audit/finish_tables.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+HCC_PTPN22_AF35_FINAL_PROSE_SUPPLEMENT_POLISH_20260918_V1/build_final_prose_supplement.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+HCC_ICI_HIGH_IMPACT_BIOLOGICAL_RESOLUTION_AUDIT_v1/scripts/build_biological_resolution_audit.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+绘图视觉/HCC_ICI_PANEL_LEVEL_REFERENCE_DRIVEN_RECONSTRUCTION_V3_0/qa/v3_f1_f2.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+绘图视觉/HCC_ICI_V3_0R_REFERENCE_FIDELITY_RECONSTRUCTION/qa/translate.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+绘图视觉/HCC_ICI_PANEL_LEVEL_REFERENCE_DRIVEN_RECONSTRUCTION_V3_0/qa/v3_f4_f6.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+PTPN22_HUMAN_GENETIC_ACTIVATION_Phase1_v1/scripts/05_build_atlas.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+新绘图流程/POST_EXTERNAL_REVIEW_BOUNDED_REVISION_V1/source_audit.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+新绘图流程/POST_EXTERNAL_REVIEW_BOUNDED_REVISION_V1/build_candidates.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+绘图视觉/HCC_ICI_NEW_HIGH_VALUE_RESULT_PANELS_v1/qa/build_panels.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+绘图视觉/HCC_ICI_MAIN_SPECIFIC_PANEL_RECONSTRUCTION_v1/qa/build_main.py	script	EXCLUDED	Reclassified DISPLAY_ONLY; not included in primary analysis hierarchy
+HCC_ICI_project/04_scripts/phase19/07_prepare_phase19_manifest.py	script	EXCLUDED	Reclassified HISTORICAL; not included in primary analysis hierarchy
+HCC_ICI_project/04_scripts/final_harmonization/99_freeze_manifest.R	script	EXCLUDED	Reclassified HISTORICAL; not included in primary analysis hierarchy
+supplement/tables/S01_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S01_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S03_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S03_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S03_03.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_04.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_05.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_06.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_08.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_09.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_10.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_12.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_14.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S05_16.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_03.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_04.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_05.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_06.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_07.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S07_08.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S08_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S08_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S08_03.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S08_04.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S08_05.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S08_06.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S08_07.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S09_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S09_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S09_03.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S09_04.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S10_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S10_05.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S10_06.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S11_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S11_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S11_05.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S11_06.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S11_09.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S11_13.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S13_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S15_01.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S15_02.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S15_03.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S15_04.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S15_05.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+supplement/tables/S15_06.tsv	source_table	EXCLUDED	Individual-level identifiers, third-party detailed effects, redundant provenance, or nonessential large manifest; not admitted by aggregate-table allowlist
+Figure 3A liver illustration and all composite main-figure exports	asset	EXCLUDED	Decorative asset provenance/license unresolved; no figure binary distributed
+Original datasets and individual-level derived files	data_class	EXCLUDED	Third-party redistribution terms and individual-level mapping not cleared; use source accessions
+Conversation logs; session JSONL; prompts; credentials; private correspondence; unrelated projects	private_class	EXCLUDED	Outside scientific public-repository scope; never copied
+Historical complete staging package	archive	EXCLUDED	Contains duplicate historical scripts, raw path records and excluded figure composites; curated selection only

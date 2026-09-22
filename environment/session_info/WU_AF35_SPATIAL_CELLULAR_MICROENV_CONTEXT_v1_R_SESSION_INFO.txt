@@ -1,0 +1,19 @@
+R version 4.4.1 (2024-06-14 ucrt)
+x86	64-w64-mingw32
+digest	0.6.39
+arrow	20.0.0.2
+data.table	1.18.2.1
+tidyselect	1.2.1
+bit	4.6.0
+compiler	4.4.1
+magrittr	2.0.4
+assertthat	0.2.1
+R6	2.6.1
+cli	3.6.5
+glue	1.8.0
+bit64	4.6.0-1
+vctrs	0.7.1
+tzdb	0.5.0
+lifecycle	1.0.5
+rlang	1.1.7
+purrr	1.2.1

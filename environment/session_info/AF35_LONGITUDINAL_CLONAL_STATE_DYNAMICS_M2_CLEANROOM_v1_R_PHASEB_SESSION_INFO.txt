@@ -1,0 +1,6 @@
+R version 4.4.1 (2024-06-14 ucrt)
+x86	64-w64-mingw32
+digest	0.6.39
+jsonlite	2.0.0
+data.table	1.18.2.1
+compiler	4.4.1
